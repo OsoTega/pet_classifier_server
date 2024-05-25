@@ -1,7 +1,3 @@
-Here's a README template for your Flask API code along with instructions for running both the Flask API and the previous Python code:
-
----
-
 # Pet Classification Flask API
 
 This repository contains a Flask API for classifying pet images using a pre-trained model.
@@ -66,7 +62,3 @@ The repository also contains Python code for training the pet classification mod
    ```bash
    python image_deep_learning.py
    ```
-
----
-
-Feel free to customize the README further with additional information or instructions specific to your project!
