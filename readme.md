@@ -2,6 +2,12 @@
 
 This repository contains a Flask API for classifying pet images using a pre-trained model.
 
+## Author Information
+
+- **Author**: Tega Osowa
+- **Email**: stevetega.osowa11@gmail.com
+- **GitHub**: [OsoTega](https://github.com/OsoTega)
+
 ## Instructions
 
 ### Setup
