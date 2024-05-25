@@ -19,7 +19,7 @@ This repository contains a Flask API for classifying pet images using a pre-trai
 2. Install dependencies:
 
    ```bash
-   pip install -r flask flask_cors PIL opencv
+   pip install flask flask_cors PIL opencv
    ```
 
 ### Running the Flask API
